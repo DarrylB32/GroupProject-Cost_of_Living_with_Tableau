@@ -1,7 +1,7 @@
 # GroupProject-Cost_of_Living_with_Tableau
 This repository has been copied from it's original location [HERE](https://github.com/Mahamoud8/Final-Project), so that future updates and changes made by me will not effect the other authors. To see ALL commits to the project please refer to the original.
 
-This projects attempts to create a tool that shows a breakdown of major cities around the United States. For each city, the map displays the estimated yearly cost of living, racial demographics by state, gender demographics by state, safety rating and quality of like ranking by city. The tool also allows you to input your yearly salary and living situation and determine approximately how much yearly disposable income you could expect to have. Such a tool can assist with numerous things, such as, life events like moving or job searching.
+ This tool utilizes data from the Bureau of Labor Statistics and Numbeo Database to create an interactive Tableau tool that compares the cost of living among some of the largest cities in the United States. This tool allows the user to input their yearly salary and select from a menu of housing options to determine which cities the user could afford to live in and approximately how much disposable income they would have left Currently, for each city, the map displays the estimated yearly cost of living, racial demographics by state, gender demographics by state, safety rating and quality of life ranking of the city. The use of highlights, filter, and parameters allow for an interactive user experience.
 ![SS1](ReadMe_Resources/SS1.png)
 ### Data
 * [Bureau of Labor Statistics](https://www.bls.gov/)
