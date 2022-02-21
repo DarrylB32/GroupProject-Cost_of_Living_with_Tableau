@@ -16,7 +16,7 @@ This repository has been copied from it's original location [HERE](https://githu
 
 ### User Instructions
 * Clone the repository: git clone https://github.com/DarrylB32/GroupProject-Cost_of_Living_with_Tableau.git 
-* Follow link to Tableau Dashboard [HERE](https://public.tableau.com/profile/darryl4039#!/vizhome/FinalProject_16052353135520/Dashboard1?publish=yes)
+* Follow link to Tableau Dashboard [HERE](https://public.tableau.com/authoring/CostofLivingTool_16454828885750/RacebyStateStacked#1)
 
 ### Authors
 * Darryl Baynes
